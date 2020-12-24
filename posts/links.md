@@ -17,3 +17,9 @@ Drug Interactions:
 * Chemistry
 * Alchemy
 * Hermeticism
+* Mycology / Fungi
+* Engraving
+* Reverse Engineering
+* Permaculture
+* Microfluiditics
+* Gene Engineering

@@ -1,5 +1,5 @@
 ---
-title: 3 things to manage to stay healthy
+title: Gerson Therapy - 3 things to manage to stay healthy
 date: 2020-12-20
 ---
 *Idea:* Site like chronometer with procedures and measurements for various natural therapies (Intake, protocols etc)
